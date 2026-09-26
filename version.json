@@ -2,5 +2,5 @@
     "latestVersion":  "v14.0.0-beta1",
     "changelog":  "v14.0.0-beta1：12 项功能回归（OTA自动更新/备份恢复/自动化独立Tab/Sentry崩溃上报/AI助手/无障碍保活/生物识别锁/Glance桌面小部件/Lottie动画/主题个性化/Markdown渲染/多语言）+ 免Root模块系统完整版",
     "versionCode":  1200,
-    "downloadUrl":  "https://github.com/qianyumeng0228/ReShizukuX-OTA/releases/download/v14.0.0-beta1/ReShizukuX-v14.0.0-beta1.apk"
+    "downloadUrl":  "https://github.com/qianyumeng0228/ReShizukuX-OTA/releases/download/v14.0.0-beta1/manager-release.apk"
 }
